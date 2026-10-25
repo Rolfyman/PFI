@@ -1,0 +1,10 @@
+{
+  "subreddits": ["mildlyinteresting", "damnthatsinteresting", "internetisbeautiful"],
+  "per_subreddit_limit": 25,
+  "max_candidates_per_run": 12,
+  "retention_hours": 48,
+  "allowed_media_domains": ["i.redd.it", "i.imgur.com", "imgur.com"],
+  "blocked_domains": [],
+  "blocked_terms": ["nsfw", "gore", "suicide", "self harm", "onlyfans", "porn"],
+  "gallery_title": "PFI — candidatos para revisão"
+}
